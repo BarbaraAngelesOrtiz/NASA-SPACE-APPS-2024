@@ -30,21 +30,34 @@ We expect that through iterative testing and feedback from users, educators, and
 The platform’s main objective is to make the exploration of ocean worlds and non-Earth-like ecosystems both accessible and enjoyable. By blending education with interactive games and experiences, it seeks to ignite curiosity and deeply engage users. The project aims to:
 
   ●	Spark Curiosity and Engage Users: Utilize an interactive and immersive platform to captivate students, enthusiasts, and curious minds.
+  
   ●	Provide Essential Knowledge: Start with an introduction to planetary science and basic biology to equip users with foundational knowledge.
+  
   ●	Interactive and Engaging Learning: Use photorealistic photos, videos, 3D models, and interactive elements to enhance the learning experience.
+  
   ●	Critical Thinking and Problem-Solving: Encourage users to think critically about the factors that influence the habitability fostering these skills by a “Choose Your Own Adventure” style game.
-  ●	Create unique Habitable Ocean Worlds: Help users understand how chemosynthetic life could potentially thrive in ocean worlds completely different from  Earth.
+  
+  ●	Create unique Habitable Ocean Worlds: Help users understand how chemosynthetic life could potentially thrive in ocean worlds completely different from  Earth
+  
   ●	Provide Diverse Outcomes: Show users a variety of possible outcomes based on their choices, from thriving chemosynthetic ocean worlds to hostile dead planets
+  
   ●	Accessibility: Make complex scientific concepts accessible to a broader audience, simplifying topics such as the geology, formation and habitability of ocean worlds
+  
 
 ### BENEFITS
 
   ●	Engaging narratives
+  
   ●	User-friendly interface
+  
   ●	Interactivity
+  
   ●	Educational Content
+  
   ●	Personalization
+  
   ●	Attractive Visualizations
+  
   ●	Accessibility
 
 ### TOOLS
@@ -60,19 +73,29 @@ Generative AI for images and videos was crucial for providing media resources in
 ## Space Agency Data
 
   ●	[Ocean Worlds - NASA](https://www.nasa.gov/specials/ocean-worlds/)
+  
   ●	[Ocean Worlds Resources - NASA Science](https://science.nasa.gov/toolkit/oceanworlds/)
+  
   ●	[Exoplanets - NASA](https://science.nasa.gov/exoplanets/)
+  
   ●	[Strange New Worlds - NASA](https://science.nasa.gov/exoplanets/immersive/strange-new-worlds/)
 
 ## References
 
   ●	[Network for Ocean Worlds](https://oceanworlds.space/)
+  
   ●	[Exoplanet catalogue - ESA](https://exoplanet.eu/catalog/)
+  
   ●	[Midjourney](https://www.midjourney.com/)
+  
   ●	[SkyBox AI](https://skybox.blockadelabs.com/)
+  
   ●	[Pika](https://pika.art/my-library)
+  
   ●	[ImagineArt](https://www.imagine.art/)
+  
   ●	[Phys.org](https://phys.org/)
+  
   ●[The Engineering ToolBox](https://www.engineeringtoolbox.com/)
 
 
