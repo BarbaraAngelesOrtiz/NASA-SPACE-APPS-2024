@@ -1,9 +1,11 @@
 # NASA-SPACE-APPS-2024
 ## Project Oceánides
+![n3 9](https://github.com/user-attachments/assets/dd30aa18-e9ad-459f-85c6-8717b3147c6b)
+
 
 ### High-Level Summary
 
-The “Ocean World Creator” project, developed by Team Oceánides, is an interactive website and educational game that immerses users in the factors affecting ocean worlds, such as their position in a star system, atmospheric presence, geological activity, and water levels. Inspired by the “Choose Your Own Adventure” books, users answer questions and make choices that lead to various outcomes, from thriving chemosynthetic ecosystems to barren, frozen, or hostile planets. AI-generated images and 3D comparisons with known moons or exoplanets enhance understanding and engagement. The project aims to make learning about these complex concepts both accessible and enjoyable, sparking curiosity and deep engagement.
+The “Ocean World Creator” project, developed by Team Oceánides, is an interactive website that immerses users in the factors affecting ocean worlds, such as their position in a star system, atmospheric presence, geological activity, and water levels. Inspired by the “Choose Your Own Adventure” books, users answer questions and make choices that lead to various outcomes, from thriving chemosynthetic ecosystems to barren, frozen, or hostile planets. AI-generated images and 3D comparisons with known moons or exoplanets enhance understanding and engagement. The project aims to make learning about these complex concepts both accessible and enjoyable, sparking curiosity and deep engagement.
 
 ### Project Demo
 
