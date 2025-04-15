@@ -2,16 +2,18 @@
 ## Project Oceánides
 ![n3 9](https://github.com/user-attachments/assets/dd30aa18-e9ad-459f-85c6-8717b3147c6b)
 
-
 ### High-Level Summary
 
 The “Ocean World Creator” project, developed by Team Oceánides, is an interactive website that immerses users in the factors affecting ocean worlds, such as their position in a star system, atmospheric presence, geological activity, and water levels. Inspired by the “Choose Your Own Adventure” books, users answer questions and make choices that lead to various outcomes, from thriving chemosynthetic ecosystems to barren, frozen, or hostile planets. AI-generated images and 3D comparisons with known moons or exoplanets enhance understanding and engagement. The project aims to make learning about these complex concepts both accessible and enjoyable, sparking curiosity and deep engagement.
+![w5 1](https://github.com/user-attachments/assets/9059d079-2d50-40d4-8a75-cd49fea7328d)
 
 ### Project Demo
 
 [Video Demo](https://www.youtube.com/watch?v=1RiNtSkJb1I)
 
 [Final Project](https://ortizbarbara.com/oceanides)
+![a3 4](https://github.com/user-attachments/assets/19ca9dec-237f-4e10-bb39-30935308fa15)
+
 
 ### Project Details
 
@@ -26,6 +28,9 @@ For each one is provided a global description of the star system, planetary para
 Each world is illustrated with photorealistic photos, 3D elements, and videos, showcasing views from space, the main surface and atmospheric features, the oceans, and the unique forms of life that thrive there. Each planet is compared to Earth and associated with real exoplanets listed in the planet catalogues from NASA and ESA. Additionally, references to existing moons from the Solar System or even ancient geological eras from our planet, where life may have been similar to our fictional worlds, are included.
 
 We expect that through iterative testing and feedback from users, educators, and enthusiasts, the project will evolve to ensure accessibility and enjoyment for a broad audience, ultimately making complex scientific concepts both understandable and captivating. In the future, other scenarios can be included. The zoo of exoplanets is vast, ranging from compact star systems and hot Jupiters to super-Earths, mini-Neptunes, and rogue planets. We don’t know the limits for life, and learning about the processes involved in its formation can be truly fascinating.
+
+![S5](https://github.com/user-attachments/assets/2424c232-5ae7-4926-b720-41da910d7075)
+
 
 ### ACHIEVEMENTS
 
@@ -45,6 +50,8 @@ The platform’s main objective is to make the exploration of ocean worlds and n
   
   ●	Accessibility: Make complex scientific concepts accessible to a broader audience, simplifying topics such as the geology, formation and habitability of ocean worlds
   
+  ![12 1](https://github.com/user-attachments/assets/0847e858-c040-4424-b375-62d0b490cf67)
+
 
 ### BENEFITS
 
@@ -62,11 +69,14 @@ The platform’s main objective is to make the exploration of ocean worlds and n
   
   ●	Accessibility
 
+  ![3 2 Boiling Ocean](https://github.com/user-attachments/assets/4d7d4e47-c3bc-49df-a34d-909675f5f20c)
+
+
 ### TOOLS
 
-Artificial Intelligence, This project incorporates a rich array of AI-generated images, videos, and animations to enhance the presented material, including Copilot, Midjourney, SkyBox AI, Pika, and ImagineArt
-Blender and Sketchfab, for 3D models of planetary surfaces
-Web developer tools, Wordpress, code in Html, Css and Json 
+-Artificial Intelligence, This project incorporates a rich array of AI-generated images, videos, and animations to enhance the presented material, including Copilot, Midjourney, SkyBox AI, Pika, and ImagineArt
+-Blender and Sketchfab, for 3D models of planetary surfaces
+-Web developer tools, Wordpress, code in Html, Css and Json 
 
 ## Use of Artificial Intelligence
 
