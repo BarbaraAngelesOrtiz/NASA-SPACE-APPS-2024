@@ -119,7 +119,6 @@ Generative AI for images and videos was crucial for providing media resources in
 
 ![Status](https://img.shields.io/badge/status-finished-brightgreen)
 
-![Python](https://img.shields.io/badge/python-3.10-blue)
 
 
 
