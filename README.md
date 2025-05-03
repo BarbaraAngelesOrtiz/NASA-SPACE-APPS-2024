@@ -110,4 +110,17 @@ Generative AI for images and videos was crucial for providing media resources in
   
   ●[The Engineering ToolBox](https://www.engineeringtoolbox.com/)
 
+  ## Author
+**Bárbara Ángeles Ortiz**
+
+ <img src="https://avatars.githubusercontent.com/u/105976212?v=4" width=115><br><sub></sub>
+
+[LinkedIn](https://www.linkedin.com/in/barbaraangelesortiz/) | [GitHub](https://github.com/BarbaraAngelesOrtiz)
+
+![Status](https://img.shields.io/badge/status-finished-brightgreen)
+
+![Python](https://img.shields.io/badge/python-3.10-blue)
+
+
+
 
